@@ -126,7 +126,7 @@ onBeforeUnmount(() => {
           </p>
           <ul class="bullets bullets--research">
             <li>появлении и развитии криптографии;</li>
-            <li>изучили методы шифрования информации в древнем мире.</li>
+            <li>методах шифрования информации в древнем мире.</li>
           </ul>
         </div>
         <figure class="research-split__photo" aria-label="Фото из музея криптографии">
